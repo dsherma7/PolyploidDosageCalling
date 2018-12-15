@@ -1,0 +1,13 @@
+Plant ID,Assay1,Assay2,Assay3
+Plant_ID_1,Negative,Negative,Positive
+Plant_ID_2,Negative,Negative,Positive
+Plant_ID_3,Negative,Negative,Positive
+Plant_ID_4,Positive,Negative,Negative
+Plant_ID_5,Positive,Negative,Negative
+Plant_ID_6,Negative,Positive,Negative
+Plant_ID_7,Negative,Positive,Negative
+Plant_ID_8,Negative,Negative,Negative
+Plant_ID_9,Negative,Negative,Negative
+NTC,NTC,NTC,NTC
+NTC,NTC,NTC,NTC
+NTC,NTC,NTC,NTC

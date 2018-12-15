@@ -1,0 +1,25 @@
+Package: Quadrophenia
+Title: Calls the Dosage From Tetraploid qPCR Data (CT/RQ Values)
+Version: 3.0.0.1
+Authors@R: person("Doug", "Sherman", email = "desherman@ucdavis.edu", role = c("aut","cre"))
+URL: https://www.math.ucdavis.edu/~dsherman/quadrophenia.html
+BugReports: https://github.com/dsherma7/Quadrophenia/issues
+Description: Uses multiple modeling methods, including Linear Regression, Semi-
+    Supervised Clustering, and multinomial log-linear neural networks, to fit RQ values to Dosage
+    Calls on Tetraploidy Alfalfa Data. Moreover, offers support for determining Presence or
+    Absence of an assay. 
+Depends:
+    R (>= 3.3.1),
+    stringr,
+    plyr,
+    scales,
+    nnet
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: gdata,
+    stringr,
+    plyr,
+    scales,
+    nnet
